@@ -25,6 +25,7 @@ Company-wise Sales: Table
 Sales Details: Full data table
 
 🖼️ Screenshots:
+
 ![Dashboard Overview]
 <img width="1314" height="737" alt="overview" src="https://github.com/user-attachments/assets/33984e71-8b88-4349-aeba-1ed4309b3d97" />
 
